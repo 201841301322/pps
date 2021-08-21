@@ -1,0 +1,5 @@
+./1.env
+./2.ppss 3 ##The 3 here is the number -1 of cores of your computer
+./3.ppcc 192.168.0.22 4 ## ppcc <service IP> <computer cores -1>
+./4.watch
+./5.end
